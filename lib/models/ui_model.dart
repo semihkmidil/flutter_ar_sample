@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class UiModel {
   Widget get appBar => AppBar(
-        title: Text("Flutter Ar Saple", style: TextStyle(color: Colors.blueGrey)),
+        title: Text("Flutter Ar Sample", style: TextStyle(color: Colors.blueGrey)),
         centerTitle: true,
         backgroundColor: Colors.grey[200],
       );
